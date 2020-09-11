@@ -14,8 +14,13 @@ Needed to provide the number of retiring employees by title and to identify empl
 ## Summary:
 The first group of people that will reach retirement age are those were were born in Feb of 1952. There are 1,788 employees just for that month and year that will reach retirement age. This is the start of the silver tsunami. After that month for a continuation of years, there will be many people reaching reitrement age. 
 
-There are enough retirement-ready employees to teach the next generation of PH employees. There are over 90,000 employees that were born between 1952-1955 who are ready for retirement. They can teach the employees that were bron between 1961-1965 how to be the seniors of the company. There are a little over 90,000 of this group as well. 
+There are a little over 1,400 employees that are eligible for the mentorship eligibility program. There are enough of people that are closer to retiring that are able to mentor the employees that were born in 1965. 
 
-Another query that would be helpful to look at is the mentor titles. These are the titles that the people born in 1965 hold along with the count of how many hold each title. Below is the query and the output:
+A query that would be helpful to look at is the mentor titles. These are the titles that the people born in 1965 hold along with the count of how many hold each title. Below is the query and the output:
 
 ![mentor_titles](https://github.com/JoelS-Pebbles/Pewlett-Hackard-Analysis/blob/master/mentor_titles.PNG)
+
+
+Another query that would be helpful is to look at a similar table for people that are filling in the shoes of the employees that are retiring. We will look at people that were born between 1956-1959. Below is the query and output:
+
+![mentor titles 2](https://github.com/JoelS-Pebbles/Pewlett-Hackard-Analysis/blob/master/mentor%20titles%202.PNG)
